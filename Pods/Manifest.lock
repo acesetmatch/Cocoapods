@@ -1,0 +1,12 @@
+PODS:
+  - CoreDataSpike (0.0.1)
+
+DEPENDENCIES:
+  - CoreDataSpike
+
+SPEC CHECKSUMS:
+  CoreDataSpike: e1d68ad5054c095ef0d4b6d88a2f0fbe384f0c4b
+
+PODFILE CHECKSUM: d4364b77411d805cd731ff5affae218e6bcbfc9a
+
+COCOAPODS: 1.1.1
