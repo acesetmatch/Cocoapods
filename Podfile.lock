@@ -1,12 +1,12 @@
 PODS:
-  - CoreDataSpike (0.0.1)
+  - JunkUIDatePicker (0.0.3)
 
 DEPENDENCIES:
-  - CoreDataSpike
+  - JunkUIDatePicker
 
 SPEC CHECKSUMS:
-  CoreDataSpike: e1d68ad5054c095ef0d4b6d88a2f0fbe384f0c4b
+  JunkUIDatePicker: 35ece9e7fade85f59b138da539b293ecbcfe3b1c
 
-PODFILE CHECKSUM: d4364b77411d805cd731ff5affae218e6bcbfc9a
+PODFILE CHECKSUM: ad7c25ba395415d78237b83cb4a40c8ddb5ffbb9
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.2.0.beta.1

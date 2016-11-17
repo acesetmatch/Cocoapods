@@ -4,7 +4,7 @@ source 'https://github.com/acesetmatch/podSpecs.git'
 
 target 'Cocoapods' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
-	pod 'CoreDataSpike' ~> '0.0.1'
-  #use_frameworks!
+	pod ‘JunkUIDatePicker’ 
+  use_frameworks!
 
 end
