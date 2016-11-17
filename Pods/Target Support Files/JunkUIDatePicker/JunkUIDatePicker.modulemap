@@ -1,0 +1,6 @@
+framework module JunkUIDatePicker {
+  umbrella header "JunkUIDatePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
